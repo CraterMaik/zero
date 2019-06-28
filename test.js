@@ -1,4 +1,4 @@
-	console.log('hello word');
+console.log('hello word');
 	let num = 12.3;
 	let perms = [1, 2, 3];
 
