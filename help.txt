@@ -1,0 +1,35 @@
+= List of commands Zero system =
+
+prefix: z!
+
+== About ==
+Zero a discord bot to control the permissions and actions(kick and ban) of the staff of a discord server when the owner of the server is disconnected(offline) or absent(idle).
+
+== Zero system ==
+The system automatically ACTIVATES when the server owner is disconnected
+or absent, and DEACTIVATES when the server owner reconnects.
+
+If the zero system is ACTIVATED:
+ Commands: 
+ The commands have a limit of use when the system is activated.
+
+ Roles(permissions):
+ All roles with ban and/or kick permissions will be disabled and forcing 
+ commands to be used for actions(kick and ban).
+
+If the zero system is DISABLED:
+ Commands: 
+ The commands do not have a usage limit when the system is deactivated.
+
+ Roles(permissions):
+ All roles with kick and/or ban permissions will be activated again 
+ and they can also use commands for actions(kick and ban).
+
+== Commands ==
+◈ ban <@user> <reason>      :: Banned a member of the server.
+◈ kick <@user> <reason>     :: Kick a member of the server.
+◈ unban <iduser> <reason>   :: Unbanned a member of the server.
+◈ zeroff                    :: Deactivates the zero system.
+
+
+
