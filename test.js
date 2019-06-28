@@ -6,5 +6,5 @@ console.log('hello word');
 	let num3 = 2;
 	let list = [0, 6, 8];
 	list.map(l => {
-		return l;
+		return l
 	})
