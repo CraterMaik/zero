@@ -32,7 +32,7 @@ or absent, and **DEACTIVATES** when the server owner reconnects.
 - zeroff  :: Deactivates the zero system. (Requires administrator permissions)
 
 # Installation
-1. It requires a discord application, go to [Discod app](https://discordapp.com/developers/applications/) and create a bot application and get the token.
+1. It requires a discord application, go to [Discord app](https://discordapp.com/developers/applications/) and create a bot application and get the token.
 
 2. Create an application on [Glitch.com](https://glitch.com/) or locally on your PC, installing [NodeJS](https://nodejs.org/en/)
 
